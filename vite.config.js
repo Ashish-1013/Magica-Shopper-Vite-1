@@ -6,5 +6,6 @@ export default defineConfig({
     server:{
         port:3000,   //if we want then use 3000
         open: true
-    }
+    },
+    base: '/Magica-Shopper-Vite-1/',
 });
